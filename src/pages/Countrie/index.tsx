@@ -28,7 +28,7 @@ export const Countrie = ({ theme }: Props) => {
 // Obtém a lista de moedas utilizadas pelo país, se disponível
   const currList = country.currencies
     ? Object.values(country.currencies).map((item, index) => {
-        if (index == 0) {
+        if (index === 0) {
           return item.name;
         } else {
           return ", " + item.name;

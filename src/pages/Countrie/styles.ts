@@ -19,6 +19,7 @@ export const Container = styled.div<{theme: themeType}>`
     display: flex;
     gap: 100px;
 
+
     @media (max-width: 912px) {
       flex-direction: column;
       gap: 0px;

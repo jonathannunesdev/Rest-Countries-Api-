@@ -13,7 +13,6 @@ export const statusPageReducer = (state: statusPageProps, action:ActionType) => 
     switch(action.type){
         case 'CHANGE_STATUS':
             return {...state, status: action.payload.status};
-            break
         }
         return state
 };
