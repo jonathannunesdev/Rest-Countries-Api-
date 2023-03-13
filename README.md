@@ -42,6 +42,7 @@ Se você deseja contribuir com o projeto, basta realizar um fork do repositório
 - Instale as dependências com npm install
 - Inicie o servidor com npm start
 - Acesse http://localhost:3000 no seu navegador
+- Pelo site site https://rest-countries-api-dev-jn.netlify.app/
 
 ## Screenshot
 ![](/public//screenshot.jpg)
@@ -88,6 +89,7 @@ If you want to contribute to the project, simply fork the repository on GitHub a
 - Install dependencies with npm install
 - Start the server with npm start
 - Go to http://localhost:3000 in your browser
+- On the site https://rest-countries-api-dev-jn.netlify.app/
 
 ## Screenshot
 ![](/public//screenshot.jpg)
